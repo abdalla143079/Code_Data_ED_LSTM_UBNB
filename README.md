@@ -1,3 +1,5 @@
-* This repository is contains the code used for conducting the study, applying encoder decoder LSTM model for 14 days ahead streamflow forecasting in the upper blue nile basin.
-* To code was hosted in our google drive and was conducted in google colabs environment
-* to run to code locally downlaod the reposatory and change the main directories, deleting the google drive details 
+* This repository contains the code used for conducting the study, which applies an encoder-decoder LSTM model for 14-day ahead streamflow forecasting in the Upper Blue Nile Basin.
+
+* The code was originally hosted on our Google Drive and was executed in the Google Colab environment.
+
+* To run the code locally, download the repository and update the main directories by removing the Google Drive references.
